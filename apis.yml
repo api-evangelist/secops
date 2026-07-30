@@ -1,3 +1,15 @@
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/secops.png
 name: SecOps
 description: Security Operations - the practice of integrating security practices into IT operations to identify, manage, and respond to security threats and vulnerabilities in real-time while maintaining system performance and availability. It plays a critical role in protecting organizational assets and maintaining a strong security posture.
 url: https://www.ibm.com/topics/security-operations
